@@ -1,4 +1,4 @@
-# Socket-Using-Python
+# Socket Progamming Using Python for basic Network Utility
 Basic Socket Programming Using Python it Will Include basic Nmap, Port Scanning and BannerGrabbing 
 
 Some Script are Written in Python 2.7 and Some Will be Written in Pyhon 3.8 
